@@ -8,7 +8,7 @@
   <a href="https://moriox.gay">
     <img src="https://img.shields.io/website?down_color=3f0b1a&down_message=%E2%80%8C&label=moriox.gay&style=for-the-badge&up_color=10102c&up_message=%E2%80%8C&url=https%3A%2F%2Fmoriox.gay%2F" alt="Moriox Website Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/MorioxFN">
     <img src="https://img.shields.io/twitter/follow/morioxfn?color=1d9bf0&label=%40morioxfn&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
